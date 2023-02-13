@@ -1,0 +1,35 @@
+.RecuperarSenha { display: flex;
+flex-direction: row;
+align-items: flex-start;
+gap: 10px;
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+
+}
+
+.RSPage-main .Imglux img {
+
+    position: absolute;
+    width: 671px;
+    height: 931px;
+    left: 646px;
+    top: 51px;
+      
+}
+
+.RSPage-main .Login-ldPage{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+   text-align: center;
+    max-width: 500px;
+    min-width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   background-color: var(--cor2);
+}
